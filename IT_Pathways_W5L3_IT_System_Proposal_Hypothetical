@@ -1,0 +1,21 @@
+README
+Overview:
+•	The system is a data collection and delivery product which specializes in automotive fault data and repair data.
+Intended users:
+•	The system is intended as a tool for auto manufacturers
+Non-Technical Explanation
+•	Data is collected from auto technicians inputting data into digital forms. That data is then processed and stored. Then the data is used to generate reports intended for the manufacturers which give them insight into areas to improve their products.
+Technical Explanation
+•	Data is collected from auto technicians via a tablet which has a digital form on it for them to input fault data into. That data is then processed and stored for recall at a customer’s request. The data will be tagged and grouped into sections by manufacturer, year, model, and other factors. The reports will be auto generated via an algorithmic program which is designed by a software developer and a data analyst. Reports will take input from the user regarding their desired timespan, emphases, and other parameters. The report will then be sent to the user for download and review. The user will also be provided the option of downloading the raw data from the report.
+Cost categories
+•	Hardware
+o	$10,820
+•	Software
+o	$39,100
+•	Subscriptions and Ongoing Expenses
+o	$176,960
+Tradeoffs and Risks
+•	Risks include hardware price fluctuation and finding customers for the product
+•	Tradeoffs all concern physical hardware. If we go for more expensive hardware we can provide a better service but our upfront cost is much higher.
+Recommendation
+•	Companies or groups most likely to approve this technology are companies which are already involved in the automotive sector and can offer these reports as an additional product to the customers they already have.
